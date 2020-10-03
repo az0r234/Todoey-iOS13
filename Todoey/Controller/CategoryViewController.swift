@@ -1,10 +1,4 @@
-//
-//  CategoryViewController.swift
-//  Todoey
-//
-//  Created by Alok Acharya on 3/1/20.
-//  Copyright © 2020 App Brewery. All rights reserved.
-//
+
 
 import UIKit
 import RealmSwift
